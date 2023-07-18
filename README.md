@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @abriscoe21
-- 👀 I’m interested in making my work life more efficient with programming
-- 🌱 I’m currently learning pyhton
+- 👋 Hi, I’m @GreenByteWizard
+- 👀 I’m intrigued by the rabbit hole that is computer language
+- 🌱 I’m currently learning shell scripting and Terraform
 - 📫 How to reach me on my page
 
 <!---
