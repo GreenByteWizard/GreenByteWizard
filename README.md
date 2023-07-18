@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GreenByteWizard
+- 👋 Hi, I’m @greenbytewizard
 - 👀 I’m intrigued by the rabbit hole that is computer language
 - 🌱 I’m currently learning shell scripting and Terraform
 - 📫 How to reach me on my page
